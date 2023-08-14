@@ -1,0 +1,6 @@
+.footer__container {
+    height: 10vh;
+    background: #8fe895;
+    justify-content: center;
+    display: flex;
+}

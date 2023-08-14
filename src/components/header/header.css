@@ -1,0 +1,7 @@
+.headre__container {
+    background: #7de4ed;
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
